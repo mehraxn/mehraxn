@@ -1,25 +1,39 @@
 # Hello World! 👋
 
-I'm **Mehran**, a Computer Engineering student passionate about **software development** and solving problems through code.  
+I'm **Mehran**, a Computer Engineering student passionate about **software development** and problem-solving through code.  
 
-🌱 I'm currently learning and practicing **C programming**, **data structures & algorithms**, and diving deeper into **computer architecture**.  
-💡 My journey so far includes solving challenges on **LeetCode**, practicing on **CodeForces**, and building projects that strengthen my fundamentals.  
-🚀 I'm eager to expand my skills into modern software development, competitive programming, and system design.  
-
-### 🔧 Tech & Tools I’m Learning:
-- C / C++
-- Data Structures & Algorithms  
-- Computer Architecture  
-- Problem Solving (LeetCode, CodeForces)  
+🌱 I’m currently mastering **C** and **Python**, while also building strong skills in **JavaScript** and **Git/GitHub** to strengthen my development workflow.  
+💡 My journey includes solving challenges on **LeetCode**, practicing on **CodeForces**, and building projects that sharpen my fundamentals in computer architecture and algorithms.  
+🚀 My goal is to keep learning, contribute to open-source, and grow into a skilled software engineer.  
 
 ---
 
-### 📌 My Contributions So Far
-- 📂 **Algorithm_And_Data_Structures** → Practicing and implementing core algorithms.  
-- 🧮 **LeetCode** → My coding challenge solutions.  
-- 🖥️ **Computer_Architecture** → Notes and projects related to low-level computing.  
-- ⚙️ **Rudimentary_C** → Beginner-level C practice projects.  
-- 🎯 **CodeForces** → Competitive programming solutions.  
+## 🔧 Languages & Tools
+- 🐍 **Python** (master)  
+- 🔵 **C** (master)  
+- 🌐 **JavaScript** (strong)  
+- 🛠️ **Git/GitHub** (strong)  
+- 🖥️ Data Structures & Algorithms  
+- 🧮 Computer Architecture  
+- 🎯 Competitive Programming (LeetCode, CodeForces)  
+
+---
+
+## 📌 My Contributions So Far
+- 📂 **Algorithm_And_Data_Structures** → Core algorithms and implementations  
+- 🧮 **LeetCode** → My coding challenge solutions  
+- 🖥️ **Computer_Architecture** → Low-level computing projects & notes  
+- ⚙️ **Rudimentary_C** → Beginner-level C practice projects  
+- 🎯 **CodeForces** → Competitive programming solutions  
+
+---
+
+## 📊 GitHub Stats
+![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
