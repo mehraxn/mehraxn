@@ -29,11 +29,11 @@ I'm **Mehran**, a Computer Engineering student passionate about **software devel
 ---
 
 ## 📊 GitHub Stats
-![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Mehran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehraxn&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mehraxn&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehraxn&layout=compact&theme=tokyonight)
 
 ---
 
