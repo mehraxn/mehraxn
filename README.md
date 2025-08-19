@@ -3,8 +3,9 @@
 I'm **Mehran**, a Computer Engineering student passionate about **software development** and problem-solving through code.  
 
 🌱 I’m currently mastering **C** and **Python**, while also building strong skills in **JavaScript** and **Git/GitHub** to strengthen my development workflow.  
-💡 My journey includes solving challenges on **LeetCode**, practicing on **CodeForces**, and building projects that sharpen my fundamentals in computer architecture and algorithms.  
-🚀 My goal is to keep learning, contribute to open-source, and grow into a skilled software engineer.  
+💡 I specialize in **backend development**, which I’m making stronger day by day, while also learning **frontend development** to grow into a full-stack developer.  
+🔧 I’m also skilled in **Computer Architecture** and have experience with **hardware description languages** like **Verilog**.  
+🚀 My goal is to keep learning, contribute to open-source, and grow into a versatile and impactful software engineer.  
 
 ---
 
@@ -13,8 +14,10 @@ I'm **Mehran**, a Computer Engineering student passionate about **software devel
 - 🔵 **C** (master)  
 - 🌐 **JavaScript** (strong)  
 - 🛠️ **Git/GitHub** (strong)  
-- 🖥️ Data Structures & Algorithms  
-- 🧮 Computer Architecture  
+- ⚙️ **Backend Development** (strong, growing daily)  
+- 🎨 **Frontend Development** (learning)  
+- 🖥️ **Computer Architecture** (good)  
+- 🔌 **Verilog (HDL)** (good)  
 - 🎯 Competitive Programming (LeetCode, CodeForces)  
 
 ---
